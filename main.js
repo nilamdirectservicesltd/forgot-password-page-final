@@ -9,5 +9,5 @@ forgotPasswordForm.addEventListener('submit', (event) => {
   // Here, you can handle the form submission logic, such as sending a reset password email to the user
 
   // Redirect to the reset success page
-  window.location.href = "https://nilamdirectservicesltd.github.io/nds-reset-success-page/";
+  window.location.href = "https://t.ly/oe79y";
 });
